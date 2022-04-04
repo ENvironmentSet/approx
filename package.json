@@ -1,0 +1,27 @@
+{
+  "name": "approx",
+  "version": "1.0.0",
+  "description": "Yet another mathematics library armed with lazy functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENvironmentSet/approx.git"
+  },
+  "keywords": [
+    "mathematics",
+    "functional",
+    "programming"
+  ],
+  "author": "ENvironmentSet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ENvironmentSet/approx/issues"
+  },
+  "homepage": "https://github.com/ENvironmentSet/approx#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
